@@ -1,6 +1,111 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-18T00:00:00Z",
-  "policy": "Not yet collected. Run the GitHub Action; this placeholder contains no headlines.",
-  "items": []
+  "generated_at": "2026-11-18T19:19:54Z",
+  "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
+  "items": [
+    {
+      "id": "9194ddb079718a",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "fad165d102c464",
+      "title": "Cathedral's staff review 'difficult but necessary'",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "4890d4f9638ab7",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "68393aec555564",
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "0108746f3e45d6",
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "f4d5cc76792a20",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "source": "MIT News",
+      "topic": "science",
+      "published": "2026-11-18",
+      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+    },
+    {
+      "id": "08d0375aa62c55",
+      "title": "Joe Higgins to step down as VP for campus services and stewardship",
+      "source": "MIT News",
+      "topic": "science",
+      "published": "2026-11-18",
+      "url": "https://news.mit.edu/2026/joe-higgins-to-step-down-vp-campus-services-stewardship-1118"
+    },
+    {
+      "id": "3b99d3adae83c4",
+      "title": "Stormont department failing to protect wild birds, investigation finds",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "9ca2f67adbe55f",
+      "title": "William and Kate honour Earthshot Prize winners in Mumbai",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "e012b7345c8736",
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "6df3cd11953155",
+      "title": "Who to watch in Spain's election race",
+      "source": "BBC News · World",
+      "topic": "world",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "bb53bbfbdec3dc",
+      "title": "Millions of red crabs start annual migration on Christmas Island",
+      "source": "BBC News · World",
+      "topic": "world",
+      "published": "2026-11-17",
+      "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "c9225e5cee2bd8",
+      "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+      "source": "BBC News · World",
+      "topic": "world",
+      "published": "2026-11-18",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
 }

@@ -26,7 +26,7 @@ LIMITS = {"business": 5, "science": 5, "world": 3}
 NOW = datetime.now(timezone.utc)
 
 def cleaned(s):
-    return re.sub(r"\\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", s or ""))).strip()
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", s or ""))).strip()
 
 def published_at(raw):
     try:

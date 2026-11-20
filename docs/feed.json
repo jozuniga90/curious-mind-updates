@@ -1,8 +1,24 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-19T21:37:58Z",
+  "generated_at": "2026-11-20T21:08:59Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "4cbea02f2f1bee",
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "8febbadd7da71c",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-19",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "787ec3ea015eb5",
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -12,100 +28,84 @@
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "9194ddb079718a",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "id": "d020b8aa67dc21",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "23704d6b091a33",
-      "title": "More support for households reliant on heating oil",
+      "id": "53ba164e0140f6",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "source": "BBC News · Business",
       "topic": "business",
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "c842cebd4bd1f2",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "source": "MIT News",
+      "topic": "science",
       "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
     },
     {
-      "id": "4c58e294624bab",
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "7a2a34188fae08",
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "89c3123e9896e8",
+      "id": "cab0a260114b78",
       "title": "BBC Inside Science",
       "source": "BBC News · Science",
       "topic": "science",
       "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "f4d5cc76792a20",
-      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "id": "29c6398dc2aba2",
+      "title": "Following the “mathocalypse,” mathematicians consider the future",
       "source": "MIT News",
       "topic": "science",
-      "published": "2026-11-18",
-      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+      "published": "2026-11-20",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
     },
     {
-      "id": "ce78f6fa9ef5a5",
-      "title": "Oil firm fined for breaking environmental rules hundreds of times",
+      "id": "a6322da1243247",
+      "title": "What are heat pumps and how much do they cost?",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "091d8212ef272c",
-      "title": "Ultrasound imaging without the gel",
-      "source": "MIT News",
+      "id": "57f5b4720823cf",
+      "title": "Wildlife conservation cash targets ex-colliery sites",
+      "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-19",
-      "url": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119"
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "acfbda4c15acd1",
-      "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
-      "source": "MIT News",
-      "topic": "science",
-      "published": "2026-11-19",
-      "url": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119"
-    },
-    {
-      "id": "4a8309431ec4f0",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "id": "07fa03897d2f5c",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "92ca9ff247094e",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "id": "d88d0288efc831",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "968ebb26e1aec6",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "id": "96853c2bcb76b2",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

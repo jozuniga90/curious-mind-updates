@@ -1,8 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-20T21:08:59Z",
+  "generated_at": "2026-11-21T20:07:46Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "53ba164e0140f6",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "4cbea02f2f1bee",
       "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
@@ -20,28 +28,20 @@
       "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "787ec3ea015eb5",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "id": "a4eeca19666ee1",
+      "title": "Sessions offer advice on rising energy costs",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "d020b8aa67dc21",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "id": "5ef06037f3faa4",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "source": "BBC News · Business",
       "topic": "business",
       "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "53ba164e0140f6",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "c842cebd4bd1f2",
@@ -60,52 +60,52 @@
       "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "29c6398dc2aba2",
-      "title": "Following the “mathocalypse,” mathematicians consider the future",
-      "source": "MIT News",
-      "topic": "science",
-      "published": "2026-11-20",
-      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
-    },
-    {
-      "id": "a6322da1243247",
-      "title": "What are heat pumps and how much do they cost?",
+      "id": "e54ec07f73645f",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "57f5b4720823cf",
-      "title": "Wildlife conservation cash targets ex-colliery sites",
+      "id": "e8b54dffc98f48",
+      "title": "Hormuz swim highlights environmental cost of war",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "07fa03897d2f5c",
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "source": "BBC News · World",
-      "topic": "world",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
+      "id": "7fdcb21b496aa9",
+      "title": "How red squirrels made island their home",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "d88d0288efc831",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "id": "2bf653dff00332",
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "96853c2bcb76b2",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "id": "a9bb7c6e29da20",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "1c64d44e2f0cbf",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "source": "BBC News · World",
+      "topic": "world",
+      "published": "2026-11-21",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

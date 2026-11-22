@@ -1,8 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T20:07:46Z",
+  "generated_at": "2026-11-22T20:22:48Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "f52c822b3d4b23",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "53ba164e0140f6",
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -12,36 +20,28 @@
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "4cbea02f2f1bee",
-      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "id": "1cdf64ba775d6a",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "8febbadd7da71c",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "id": "1cdf64ba775d6a",
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "a4eeca19666ee1",
-      "title": "Sessions offer advice on rising energy costs",
+      "id": "ea9526b5723a2b",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "5ef06037f3faa4",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "c842cebd4bd1f2",
@@ -52,60 +52,60 @@
       "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
     },
     {
-      "id": "cab0a260114b78",
-      "title": "BBC Inside Science",
+      "id": "0773d3d170944a",
+      "title": "What's next after no deal at COP31 climate summit?",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-19",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "e54ec07f73645f",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "id": "e4dc3fa8f4ea0c",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "e8b54dffc98f48",
-      "title": "Hormuz swim highlights environmental cost of war",
+      "id": "95e1b8e14af6b1",
+      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "7fdcb21b496aa9",
-      "title": "How red squirrels made island their home",
+      "id": "384d88b27801a3",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "2bf653dff00332",
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "id": "4d2dfd34c10fd7",
+      "title": "What's next after no deal at COP31 climate talks?",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "a9bb7c6e29da20",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "id": "1702b449ef0b09",
+      "title": "South Korea education minister resigns over exam cheating scandal",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1c64d44e2f0cbf",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "id": "a201ec4f423e6e",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-21",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

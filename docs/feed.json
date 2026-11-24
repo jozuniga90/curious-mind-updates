@@ -1,8 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T00:55:08Z",
+  "generated_at": "2026-11-24T23:02:35Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "762ce6d7fedd6d",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-24",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "9194ddb079718a",
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -28,20 +36,12 @@
       "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1799c0a1447805",
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "id": "2a1422ea57bb08",
+      "title": "US attorney general dodges questions about Nvidia investigation",
       "source": "BBC News · Business",
       "topic": "business",
       "published": "2026-11-24",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "25d043b118adad",
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "9999323999cb50",
@@ -52,44 +52,36 @@
       "url": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123"
     },
     {
-      "id": "dfa0b937d56702",
-      "title": "Many languages, one common neural code",
+      "id": "d2bb4ee42ef962",
+      "title": "3 Questions: Tackling energy challenges in a changing world",
       "source": "MIT News",
       "topic": "science",
-      "published": "2026-11-23",
-      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+      "published": "2026-11-24",
+      "url": "https://news.mit.edu/2026/3-questions-tackling-energy-challenges-changing-world-1124"
     },
     {
-      "id": "df8cf82ed3b7a0",
-      "title": "What failure of COP31 reveals about a divided world",
+      "id": "15de07f0ce6e60",
+      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "source": "MIT News",
+      "topic": "science",
+      "published": "2026-11-24",
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124"
+    },
+    {
+      "id": "04ae87c4a928cd",
+      "title": "Badger cull ruled out by Welsh government after speculation",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-24",
+      "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "81800622d8bc9a",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "source": "BBC News · Science",
+      "id": "3e200d1afac1b4",
+      "title": "What if excess renewable energy could power new industrial processes?",
+      "source": "MIT News",
       "topic": "science",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "ce86578dacbeab",
-      "title": "Village's concern over sewage discharge in dry river",
-      "source": "BBC News · Science",
-      "topic": "science",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "4c2b336b765a0a",
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "source": "BBC News · World",
-      "topic": "world",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-24",
+      "url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
     },
     {
       "id": "f6d36288d78349",
@@ -106,6 +98,14 @@
       "topic": "world",
       "published": "2026-11-23",
       "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "ff6c6aedbd710a",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "source": "BBC News · World",
+      "topic": "world",
+      "published": "2026-11-24",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T20:22:48Z",
+  "generated_at": "2026-11-24T00:55:08Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "9194ddb079718a",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "683e7e8098425d",
+      "title": "South East Water reports loss after supply issues",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "f52c822b3d4b23",
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-22",
+      "published": "2026-11-23",
       "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "53ba164e0140f6",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "id": "1799c0a1447805",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-20",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-24",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1cdf64ba775d6a",
-      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "id": "25d043b118adad",
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1cdf64ba775d6a",
-      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "ea9526b5723a2b",
-      "title": "MP criticises Guernsey and Jersey company ownership register plans",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "c842cebd4bd1f2",
-      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "id": "9999323999cb50",
+      "title": "J-PAL North America launches Medicaid Learning Lab to help state agencies test, learn, and improve health care delivery",
       "source": "MIT News",
       "topic": "science",
-      "published": "2026-11-19",
-      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
+      "published": "2026-11-23",
+      "url": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123"
     },
     {
-      "id": "0773d3d170944a",
-      "title": "What's next after no deal at COP31 climate summit?",
+      "id": "dfa0b937d56702",
+      "title": "Many languages, one common neural code",
+      "source": "MIT News",
+      "topic": "science",
+      "published": "2026-11-23",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+    },
+    {
+      "id": "df8cf82ed3b7a0",
+      "title": "What failure of COP31 reveals about a divided world",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "e4dc3fa8f4ea0c",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "id": "81800622d8bc9a",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "95e1b8e14af6b1",
-      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "id": "ce86578dacbeab",
+      "title": "Village's concern over sewage discharge in dry river",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "384d88b27801a3",
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "source": "BBC News · Science",
-      "topic": "science",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "4d2dfd34c10fd7",
-      "title": "What's next after no deal at COP31 climate talks?",
+      "id": "4c2b336b765a0a",
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1702b449ef0b09",
-      "title": "South Korea education minister resigns over exam cheating scandal",
+      "id": "f6d36288d78349",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "a201ec4f423e6e",
-      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "id": "4279a33688d6c9",
+      "title": "Five takeaways from the failed climate talks COP31",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

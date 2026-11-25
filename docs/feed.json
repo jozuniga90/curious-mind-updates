@@ -1,111 +1,111 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T23:02:35Z",
+  "generated_at": "2026-11-25T22:35:19Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
     {
-      "id": "762ce6d7fedd6d",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "id": "1948fca9bbe107",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "be54e905a796b4",
+      "title": "US announces new tariffs on host of countries including China",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "762ce6d7fedd6d",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-25",
       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "9194ddb079718a",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "id": "42b954009353f0",
+      "title": "US stocks fall further as fears over AI intensify",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "683e7e8098425d",
-      "title": "South East Water reports loss after supply issues",
+      "id": "fcba5c9d7e3f75",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "f52c822b3d4b23",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "2a1422ea57bb08",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-24",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "9999323999cb50",
-      "title": "J-PAL North America launches Medicaid Learning Lab to help state agencies test, learn, and improve health care delivery",
-      "source": "MIT News",
-      "topic": "science",
-      "published": "2026-11-23",
-      "url": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123"
-    },
-    {
-      "id": "d2bb4ee42ef962",
-      "title": "3 Questions: Tackling energy challenges in a changing world",
-      "source": "MIT News",
-      "topic": "science",
-      "published": "2026-11-24",
-      "url": "https://news.mit.edu/2026/3-questions-tackling-energy-challenges-changing-world-1124"
-    },
-    {
-      "id": "15de07f0ce6e60",
-      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
-      "source": "MIT News",
-      "topic": "science",
-      "published": "2026-11-24",
-      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124"
-    },
-    {
-      "id": "04ae87c4a928cd",
-      "title": "Badger cull ruled out by Welsh government after speculation",
+      "id": "a60791c866814e",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-24",
-      "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "3e200d1afac1b4",
-      "title": "What if excess renewable energy could power new industrial processes?",
+      "id": "b6100b41d82114",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "6cd45e2d2b78eb",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "8113c742e28e60",
+      "title": "Draining peatlands leaves a long legacy of warming",
       "source": "MIT News",
       "topic": "science",
-      "published": "2026-11-24",
-      "url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
+      "published": "2026-11-25",
+      "url": "https://news.mit.edu/2026/draining-peatlands-leaves-long-warming-legacy-1125"
     },
     {
-      "id": "f6d36288d78349",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "source": "BBC News · World",
-      "topic": "world",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss"
+      "id": "3e500e04dfa2ba",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "4279a33688d6c9",
-      "title": "Five takeaways from the failed climate talks COP31",
+      "id": "f89a15703d397d",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "ff6c6aedbd710a",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "id": "1c6024d18fe8d7",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-24",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "9756bf661ceb25",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "source": "BBC News · World",
+      "topic": "world",
+      "published": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

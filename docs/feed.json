@@ -1,8 +1,24 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-25T22:35:19Z",
+  "generated_at": "2026-11-26T22:23:05Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "77ed0ea9783dbc",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "be54e905a796b4",
+      "title": "US announces new tariffs on host of countries including China",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "1948fca9bbe107",
       "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
@@ -12,100 +28,84 @@
       "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "be54e905a796b4",
-      "title": "US announces new tariffs on host of countries including China",
+      "id": "2fbc6d410457e6",
+      "title": "When will Poundland shops close? Five key questions answered",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "762ce6d7fedd6d",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "id": "ab16224e8d1cd5",
+      "title": "New UK-EU treaty has 10-year termination clause",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "42b954009353f0",
-      "title": "US stocks fall further as fears over AI intensify",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "fcba5c9d7e3f75",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "a60791c866814e",
-      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "id": "5c53d90fda3e7a",
+      "title": "BBC Inside Science",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "b6100b41d82114",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "id": "85a2dcdf151ac8",
+      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "6cd45e2d2b78eb",
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "id": "531caf503c7fef",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "8113c742e28e60",
-      "title": "Draining peatlands leaves a long legacy of warming",
-      "source": "MIT News",
-      "topic": "science",
-      "published": "2026-11-25",
-      "url": "https://news.mit.edu/2026/draining-peatlands-leaves-long-warming-legacy-1125"
-    },
-    {
-      "id": "3e500e04dfa2ba",
-      "title": "Canadian astronaut welcomes baby girl from space station",
+      "id": "a61b694cddafa7",
+      "title": "Second court defeat for Trump's deep-sea mining ambitions",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "f89a15703d397d",
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "id": "a067c0da2f1d96",
+      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "source": "BBC News · Science",
+      "topic": "science",
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "5a12d8427988c9",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1c6024d18fe8d7",
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "id": "0f889ad86b2320",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "9756bf661ceb25",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "id": "d47facffc6b66e",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

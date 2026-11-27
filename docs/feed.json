@@ -1,8 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T22:23:05Z",
+  "generated_at": "2026-11-27T21:59:13Z",
   "policy": "Publisher RSS titles, dates, source names, and links only; not independently verified or AI-written summaries.",
   "items": [
+    {
+      "id": "084cf0ac26b9ca",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "source": "BBC News · Business",
+      "topic": "business",
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "77ed0ea9783dbc",
       "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
@@ -20,28 +28,20 @@
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1948fca9bbe107",
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "id": "79656fdd26d2e6",
+      "title": "Will new energy fixes cost more in January?",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "2fbc6d410457e6",
-      "title": "When will Poundland shops close? Five key questions answered",
+      "id": "5dbdf30e0c0986",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
       "source": "BBC News · Business",
       "topic": "business",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "ab16224e8d1cd5",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "source": "BBC News · Business",
-      "topic": "business",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "5c53d90fda3e7a",
@@ -52,60 +52,60 @@
       "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "85a2dcdf151ac8",
-      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+      "id": "1bc3f2e2255b4e",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "531caf503c7fef",
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "id": "a84f71235d1a87",
+      "title": "New satellite data shows how fast some African cities are sinking",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "a61b694cddafa7",
-      "title": "Second court defeat for Trump's deep-sea mining ambitions",
+      "id": "a38c1440c2b10c",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "a067c0da2f1d96",
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "id": "517112579bf8b7",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
       "source": "BBC News · Science",
       "topic": "science",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "5a12d8427988c9",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "id": "c5e1d62c580318",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "0f889ad86b2320",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "id": "65e067513a0532",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "d47facffc6b66e",
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "id": "5813550398040e",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "source": "BBC News · World",
       "topic": "world",
-      "published": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-11-27",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
